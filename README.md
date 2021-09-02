@@ -1,6 +1,6 @@
 # Azure-Data-Factory
 
-######¡Hola! 😊
+¡Hola! 😊
 
 Iré agregando el código que utilizo en mis demostraciones o pruebas que considere que puedan serles de utilidad alrededor de este servicio.
 
